@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="WavPlayer">
+</Property><Property Name="Solution File" Value="E:\work_\voicemask\AdvancedWave\WavPlayer.sln">
+</Property><Property Name="Date" Value="2012年8月23日">
+</Property><Property Name="Time" Value="21:40">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="WavPlayer.sln" Description="File successfully backed up as E:\work_\voicemask\AdvancedWave\Backup\WavPlayer.sln">
+</Event><Event ErrorLevel="0" Project="WavPlayer" Source="WavPlayer\WavPlayer.csproj" Description="Project file successfully backed up as E:\work_\voicemask\AdvancedWave\Backup\WavPlayer\WavPlayer.csproj">
+</Event><Event ErrorLevel="0" Project="WavPlayer" Source="WavPlayer\Media\Wave\WaveIn.cs" Description="File successfully backed up as E:\work_\voicemask\AdvancedWave\Backup\WavPlayer\Media\Wave\WaveIn.cs">
+</Event><Event ErrorLevel="0" Project="WavPlayer" Source="WavPlayer\Media\Wave\native\MMSYSERR.cs" Description="File successfully backed up as E:\work_\voicemask\AdvancedWave\Backup\WavPlayer\Media\Wave\native\MMSYSERR.cs">
+</Event><Event ErrorLevel="0" Project="WavPlayer" Source="WavPlayer\Program.cs" Description="File successfully backed up as E:\work_\voicemask\AdvancedWave\Backup\WavPlayer\Program.cs">
+</Event><Event ErrorLevel="0" Project="WavPlayer" Source="WavPlayer\Properties\AssemblyInfo.cs" Description="File successfully backed up as E:\work_\voicemask\AdvancedWave\Backup\WavPlayer\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="WavPlayer" Source="WavPlayer\Properties\Resources.Designer.cs" Description="File successfully backed up as E:\work_\voicemask\AdvancedWave\Backup\WavPlayer\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WavPlayer" Source="WavPlayer\Properties\Settings.Designer.cs" Description="File successfully backed up as E:\work_\voicemask\AdvancedWave\Backup\WavPlayer\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WavPlayer" Source="WavPlayer\Media\Wave\native\WavConstants.cs" Description="File successfully backed up as E:\work_\voicemask\AdvancedWave\Backup\WavPlayer\Media\Wave\native\WavConstants.cs">
+</Event><Event ErrorLevel="0" Project="WavPlayer" Source="WavPlayer\Media\Wave\native\WavFormat.cs" Description="File successfully backed up as E:\work_\voicemask\AdvancedWave\Backup\WavPlayer\Media\Wave\native\WavFormat.cs">
+</Event><Event ErrorLevel="0" Project="WavPlayer" Source="WavPlayer\Media\Wave\WavInDevice.cs" Description="File successfully backed up as E:\work_\voicemask\AdvancedWave\Backup\WavPlayer\Media\Wave\WavInDevice.cs">
+</Event><Event ErrorLevel="0" Project="WavPlayer" Source="WavPlayer\Media\Wave\WaveOut.cs" Description="File successfully backed up as E:\work_\voicemask\AdvancedWave\Backup\WavPlayer\Media\Wave\WaveOut.cs">
+</Event><Event ErrorLevel="0" Project="WavPlayer" Source="WavPlayer\Media\Wave\native\WAVEFORMATEX.cs" Description="File successfully backed up as E:\work_\voicemask\AdvancedWave\Backup\WavPlayer\Media\Wave\native\WAVEFORMATEX.cs">
+</Event><Event ErrorLevel="0" Project="WavPlayer" Source="WavPlayer\Media\Wave\native\WAVEHDR.cs" Description="File successfully backed up as E:\work_\voicemask\AdvancedWave\Backup\WavPlayer\Media\Wave\native\WAVEHDR.cs">
+</Event><Event ErrorLevel="0" Project="WavPlayer" Source="WavPlayer\Media\Wave\native\WAVEOUTCAPS.cs" Description="File successfully backed up as E:\work_\voicemask\AdvancedWave\Backup\WavPlayer\Media\Wave\native\WAVEOUTCAPS.cs">
+</Event><Event ErrorLevel="0" Project="WavPlayer" Source="WavPlayer\Media\Wave\native\WavMethods.cs" Description="File successfully backed up as E:\work_\voicemask\AdvancedWave\Backup\WavPlayer\Media\Wave\native\WavMethods.cs">
+</Event><Event ErrorLevel="0" Project="WavPlayer" Source="WavPlayer\Media\Wave\WavOutDevice.cs" Description="File successfully backed up as E:\work_\voicemask\AdvancedWave\Backup\WavPlayer\Media\Wave\WavOutDevice.cs">
+</Event><Event ErrorLevel="0" Project="WavPlayer" Source="WavPlayer\wfrm_Main.cs" Description="File successfully backed up as E:\work_\voicemask\AdvancedWave\Backup\WavPlayer\wfrm_Main.cs">
+</Event><Event ErrorLevel="0" Project="WavPlayer" Source="WavPlayer\Properties\Settings.settings" Description="File successfully backed up as E:\work_\voicemask\AdvancedWave\Backup\WavPlayer\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="WavPlayer" Source="WavPlayer\Properties\Resources.resx" Description="File successfully backed up as E:\work_\voicemask\AdvancedWave\Backup\WavPlayer\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="WavPlayer" Source="WavPlayer\WavPlayer.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="WavPlayer" Source="WavPlayer\WavPlayer.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="WavPlayer.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="WavPlayer.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="WavPlayer" Source="WavPlayer\WavPlayer.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

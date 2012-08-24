@@ -1,0 +1,6 @@
+E:\work_\voicemask\ref\lumisoft\LumiSoft.Net1.1\Net\Net\bin\Debug\LumiSoft.Net.dll
+E:\work_\voicemask\ref\lumisoft\LumiSoft.Net1.1\Net\Net\bin\Debug\LumiSoft.Net.pdb
+E:\work_\voicemask\ref\lumisoft\LumiSoft.Net1.1\Net\Net\bin\Debug\LumiSoft.Net.xml
+E:\work_\voicemask\ref\lumisoft\LumiSoft.Net1.1\Net\Net\obj\Debug\ResolveAssemblyReference.cache
+E:\work_\voicemask\ref\lumisoft\LumiSoft.Net1.1\Net\Net\obj\Debug\LumiSoft.Net.dll
+E:\work_\voicemask\ref\lumisoft\LumiSoft.Net1.1\Net\Net\obj\Debug\LumiSoft.Net.pdb
