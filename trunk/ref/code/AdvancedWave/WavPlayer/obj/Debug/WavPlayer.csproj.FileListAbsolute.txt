@@ -1,0 +1,9 @@
+E:\work_\voicemask\AdvancedWave\WavPlayer\bin\Debug\WavPlayer.exe
+E:\work_\voicemask\AdvancedWave\WavPlayer\bin\Debug\WavPlayer.pdb
+E:\work_\voicemask\AdvancedWave\WavPlayer\bin\Debug\LumiSoft.Net.dll
+E:\work_\voicemask\AdvancedWave\WavPlayer\bin\Debug\LumiSoft.Net.xml
+E:\work_\voicemask\AdvancedWave\WavPlayer\obj\Debug\ResolveAssemblyReference.cache
+E:\work_\voicemask\AdvancedWave\WavPlayer\obj\Debug\WavPlayer.Properties.Resources.resources
+E:\work_\voicemask\AdvancedWave\WavPlayer\obj\Debug\WavPlayer.csproj.GenerateResource.Cache
+E:\work_\voicemask\AdvancedWave\WavPlayer\obj\Debug\WavPlayer.exe
+E:\work_\voicemask\AdvancedWave\WavPlayer\obj\Debug\WavPlayer.pdb
